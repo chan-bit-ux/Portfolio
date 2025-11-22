@@ -79,7 +79,7 @@ export default function App() {
               {/* Local profile picture */}
               <img
                 src="/Profile.jpg"
-                alt="profile"
+                alt="Profile"
                 className="w-24 h-24 rounded-full object-cover border-2 border-[#0451c4] shadow"
               />
               <div>
