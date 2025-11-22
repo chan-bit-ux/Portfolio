@@ -78,8 +78,8 @@ export default function App() {
              <div className="flex items-center gap-4">
               {/* Local profile picture */}
               <img
-                src="public/Profile.jpg"
-                alt="Profile"
+                src="/Profile.jpg"
+                alt="profile"
                 className="w-24 h-24 rounded-full object-cover border-2 border-[#0451c4] shadow"
               />
               <div>
